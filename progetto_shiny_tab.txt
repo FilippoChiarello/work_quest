@@ -1,0 +1,90 @@
+1 - ANAGRAFICA
+
+Età
+Sesso
+Vivi...?
+
+2 - LAVORO
+
+Titolo di studio
+Settore in cui lavori
+Profilo professionale specifico
+Sei un...?
+
+3 - LATI NEGATIVI
+
+A livello personale, a causa di questa emergenza sanitaria, c’è qualcosa che ti preoccupa? Seleziona le DUE cose che ti preoccupano maggiormente.
+A livello lavorativo, c’è qualcosa che ti preoccupa? Seleziona le DUE cose che ti preoccupano di più....43
+A livello lavorativo, c’è qualcosa che ti preoccupa? Seleziona le DUE cose che ti preoccupano di più....44
+...45
+In questo periodo, quali comportamenti sono diventati brutte abitudini? Seleziona le DUE brutte abitudini più critiche.
+Hai sviluppato delle dipendenze? Seleziona le DUE dipendenze più importanti.
+In questo periodo, quali buone abitudini hai abbandonato in parte o del tutto? Seleziona le DUE buone abitudini più importanti che hai abbandonato.
+Per la tua esperienza, quali sono gli svantaggi dello smart working con famiglia/coinquilini a casa? Seleziona i DUE svantaggi più critici.
+
+4 - NOSTALGIA
+
+Cosa ti manca della vita d’ufficio? Seleziona le DUE cose che ti mancano di più.
+Cosa ti manca della vita sociale fuori dall'ufficio? Seleziona le DUE cose che ti mancano di più.
+
+5 - COLLEGHI/TEAM
+
+Hai litigato con i colleghi?
+Con i colleghi, hai comunicato:
+Durante la comunicazione con i colleghi, hai:
+Il tempo dedicato ai colleghi è stato:
+Hai avuto a che fare con colleghi con i quali solitamente non hai a che fare?
+Come hai comunicato con il tuo team? Telefono:
+Come hai comunicato con il tuo team? Skype, Teams e simili:
+Come hai comunicato con il tuo team? Email:
+A livello di contenuto delle comunicazioni con i colleghi, hai notato un cambiamento?
+Se alla domanda precedente hai risposto di aver notato un cambiamento nelle comunicazioni con i colleghi, spiega brevemente quale.
+
+6 - TIME MANAGEMENT 1
+
+Negli ultimi giorni hai lavorato:...28
+Negli ultimi giorni hai lavorato:...46
+Hai lavorato anche nel tempo che di solito usi per gli spostamenti?
+Come hai occupato il tempo rimanente dal lavoro?
+Hai aggiunto alla tua giornata attività che prima non facevi?
+Se alla domanda precedente hai risposto di aver aggiunto alla giornata attività che prima non facevi, quali?
+
+
+7 - TIME MANAGEMENT 2
+
+Come hai distribuito il tempo impegnato nel lavoro (il totale deve sommare a 100%)? [riunioni (Skype, Teams e simili)]
+Come hai distribuito il tempo impegnato nel lavoro (il totale deve sommare a 100%)? [lavoro da solo/a]
+Come hai distribuito il tempo impegnato nel lavoro (il totale deve sommare a 100%)? [lavoro su documenti condivisi]
+Come hai distribuito il tempo impegnato nel lavoro (il totale deve sommare a 100%)? [telefonate di lavoro]
+Come hai distribuito il tempo impegnato nel lavoro (il totale deve sommare a 100%)? [altro]
+Le tue performance lavorative sono state:
+
+
+####### ELIMINARE #######
+Hai usato metodi di lavoro per mantenere alta la performance?
+Se alla domanda precedente hai risposto di aver adottato metodi di lavoro per tenere alta la performance, quali?
+####### ELIMINARE #######
+
+8 - PERFORMANCE
+
+Le tue attività lavorative sono state:
+Se alla domanda precedente hai risposto che le tue attività lavorative sono state più discontinue, spiega brevemente perché.
+
+9 - SODDISFAZIONE LAVORATIVA
+
+Attribuisci un punteggio tra 1 (estremamente insoddisfatto), 2, 3, 5, 7 (estremamente soddisfatto) al tuo livello di soddisfazione riguardo a: [il modo in cui suddividi il tuo tempo tra vita lavorativa e vita extra-lavorativa]
+Attribuisci un punteggio tra 1 (estremamente insoddisfatto), 2, 3, 5, 7 (estremamente soddisfatto) al tuo livello di soddisfazione riguardo a: [il modo in cui suddividi la tua attenzione tra lavoro e casa]
+Attribuisci un punteggio tra 1 (estremamente insoddisfatto), 2, 3, 5, 7 (estremamente soddisfatto) al tuo livello di soddisfazione riguardo a: [il modo in cui la tua vita lavorativa si concilia con la tua vita extra-lavorativa]
+Attribuisci un punteggio tra 1 (estremamente insoddisfatto), 2, 3, 5, 7 (estremamente soddisfatto) al tuo livello di soddisfazione riguardo a: [la tua capacità di bilanciare le esigenze lavorative con quelle extra-lavorative]
+Attribuisci un punteggio tra 1 (estremamente insoddisfatto), 2, 3, 5, 7 (estremamente soddisfatto) al tuo livello di soddisfazione riguardo a: [le opportunità a tua disposizione per poter svolgere bene il tuo lavoro]
+
+10 - OPPORTUNITA'
+
+Vedi nuove opportunità dovute alla situazione contingente?
+
+
+
+
+
+
+email
